@@ -1,0 +1,40 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-image: url("background_image.jpg");
+    color: #ffffff;
+}
+
+span {
+    font-size: 24px;
+}
+
+#score {
+    margin-left: -1150px;
+}
+
+#timer {
+    float: right;
+    margin-right: 35px;
+}
+
+#sketch_to_be_drawn {
+    font-weight: bold;
+}
+
+h1 {
+    background-color: #ffffff;
+    color: #7d062c;
+    font-weight: bold;
+}
+
+#show_sketch {
+    float: right;
+    margin-top: 3px;
+    margin-right: 30px;
+}
+
+canvas {
+    margin-top: 80px;
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+}
